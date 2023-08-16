@@ -13,9 +13,9 @@ Soy un apasionado ingeniero de software con años de experiencia trabajando en p
 - 🤖 Desarrollo Full Stack: He participado en proyectos end-to-end, desde la configuración del servidor hasta la implementación de la interfaz de usuario.
 
 ## Proyectos Destacados
-- 🚀 [Proyecto 1](https://terciadesign.com/): Descripción breve del proyecto y tecnologías utilizadas.
-- 🌟 [Proyecto 2](https://spotify-2-nextjs-12-middleware-2-alejandrotarragona.vercel.app/): Resumen del proyecto y logros destacados.
-- ⭐️ [Proyecto 3](https://trello-2-nextjs-13-4-gpt-zustand-dragndrop-a-alejandrotarragona.vercel.app/): Detalles sobre el proyecto y mi contribución específica.
+- 🚀 [Proyecto 1](https://terciadesign.com/): Mi porfolio.
+- 🌟 [Proyecto 2](https://spotify-2-nextjs-12-middleware-2-alejandrotarragona.vercel.app/): Spotify
+- ⭐️ [Proyecto 3](https://trello-2-nextjs-13-4-gpt-zustand-dragndrop-a-alejandrotarragona.vercel.app/): Trello
 
 ## Colaboración y Contacto
 ¡Estoy siempre emocionado por colaborar en nuevos proyectos y aprender junto a otros desarrolladores! Si estás buscando un colega para trabajar en algo genial, no dudes en contactarme.
