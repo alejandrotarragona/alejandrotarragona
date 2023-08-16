@@ -1,16 +1,27 @@
-### Hi there 👋
+# ¡Hola, soy Alejandro Tarragona! 👋
+Ingeniero de Software Experto en React y Desarrollador Full Stack
 
-<!--
-**alejandrotarragona/alejandrotarragona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Aquí encontrarás una vista detallada de mi experiencia y habilidades en el mundo del desarrollo web y móvil con un enfoque especial en React, JavaScript, MongoDB, MySQL, Next.js y React Native. 🚀
 
-Here are some ideas to get you started:
+## Sobre mí
+Soy un apasionado ingeniero de software con años de experiencia trabajando en proyectos desafiantes y emocionantes. Mi pasión por la programación me ha llevado a especializarme en las siguientes tecnologías:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 React: He desarrollado una amplia gama de aplicaciones web modernas utilizando React, creando interfaces de usuario interactivas y eficientes.
+- 📱 React Native: He construido aplicaciones móviles nativas para iOS y Android, brindando experiencias fluidas y consistentes en ambas plataformas.
+- 🌐 Next.js: Tengo experiencia en la creación de aplicaciones web de rendimiento optimizado utilizando el marco de Next.js.
+- 📊 Bases de datos: He trabajado con bases de datos tanto SQL (MySQL) como NoSQL (MongoDB), asegurando un almacenamiento y recuperación eficientes de datos.
+- 🤖 Desarrollo Full Stack: He participado en proyectos end-to-end, desde la configuración del servidor hasta la implementación de la interfaz de usuario.
+
+## Proyectos Destacados
+- 🚀 [Proyecto 1](https://terciadesign.com/): Descripción breve del proyecto y tecnologías utilizadas.
+- 🌟 [Proyecto 2](https://spotify-2-nextjs-12-middleware-2-alejandrotarragona.vercel.app/): Resumen del proyecto y logros destacados.
+- ⭐️ [Proyecto 3](https://trello-2-nextjs-13-4-gpt-zustand-dragndrop-a-alejandrotarragona.vercel.app/): Detalles sobre el proyecto y mi contribución específica.
+
+## Colaboración y Contacto
+¡Estoy siempre emocionado por colaborar en nuevos proyectos y aprender junto a otros desarrolladores! Si estás buscando un colega para trabajar en algo genial, no dudes en contactarme.
+
+- 📫 Cómo contactarme: Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/alejandro-tercia/).
+- 😄 Pronombres: Él/él.
+- ⚡ Dato curioso: Siempre encuentro inspiración en los desafíos y disfruto explorando nuevas tecnologías.
+
+¡Gracias por visitar mi perfil! Espero que encuentres mi trabajo interesante y que podamos conectarnos pronto. 😊
